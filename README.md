@@ -1,15 +1,7 @@
-# Sarah's Portfolio 💎
-
-Welcome to the repository for Sarah Abu Irmeileh's personal portfolio website. This portfolio showcases some of my skills, projects, experiences, and contact information. It is built using HTML, CSS, and JavaScript, with a focus on clean design and responsiveness.
-
-Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netlify.app/)👈
-
-
 ## Table of Contents 📋
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## Technologies Used ⚙️
 - HTML5: For structuring the content.
@@ -40,17 +32,5 @@ Click Here to see  👉[My Portfolio](https://sarah-abu-irmeileh-portfolio.netli
 - Open the style switcher by clicking the gear icon.
 - Choose your preferred color theme.
 
-### Contact Form 📑
-- Fill out the form with your name, email, subject, and message.
-- Click "Send Message" to submit your inquiry.
 
-## Contact 📨
 
-For any inquiries, you can reach Sarah Abu Irmeileh through the following channels:
-
-- Email: [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
-- GitHub: [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh)
-- LinkedIn: [Sarah Abu Irmeileh](https://www.linkedin.com/in/sarahabuirmeileh)
-- Medium: [SarahAbuirmeileh](https://medium.com/@SarahAbuirmeileh)
-
-Feel free to fork this repository, raise issues, or submit pull requests. Thank you for visiting! 🔥
