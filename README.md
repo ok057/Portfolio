@@ -32,5 +32,6 @@
 - Open the style switcher by clicking the gear icon.
 - Choose your preferred color theme.
 
-
+#Deployed
+-https://omkporfolio.netlify.app/
 
